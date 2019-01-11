@@ -78,7 +78,7 @@ export PATH=$PATH:${ZOOKEEPER_HOME}/bin
 source /etc/profile
 ```
 
-## kafka命令
+## zk命令
 ```
 #启动时，切换成bigdata用户
 su bigdata
