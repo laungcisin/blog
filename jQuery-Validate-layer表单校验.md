@@ -1,7 +1,7 @@
 ---
 title: jQuery-Validate-layer表单校验
 date: 2088-01-01 08:00:01
-tags: 
+tags: jQuery
 categories: 前端
 ---
 
