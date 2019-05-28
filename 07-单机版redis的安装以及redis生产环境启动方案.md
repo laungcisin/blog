@@ -9,9 +9,11 @@ categories: redis
 ## 1. 安装单机版redis
 
 1. 更改`/usr/local`的`group`和`user`权限
+
 ```
 sudo chown bigdata:bigdata /usr/local -R
 ```
+
 2. 安装`tcl`。本文安装`tcl8.6.1`版本
 ```
 cd /home/bigdata/software/
